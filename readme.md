@@ -1,0 +1,1 @@
+This repo ccontains usefull tips, tricks, hacks for Claude code
